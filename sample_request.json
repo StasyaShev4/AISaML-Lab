@@ -1,0 +1,49 @@
+{
+  "instances": [
+    {
+      "alcohol": 14.23,
+      "malic_acid": 1.71,
+      "ash": 2.43,
+      "alcalinity_of_ash": 15.6,
+      "magnesium": 127,
+      "total_phenols": 2.8,
+      "flavanoids": 3.06,
+      "nonflavanoid_phenols": 0.28,
+      "proanthocyanins": 2.29,
+      "color_intensity": 5.64,
+      "hue": 1.04,
+      "od280_od315": 3.92,
+      "proline": 1065
+    },
+    {
+      "alcohol": 13.2,
+      "malic_acid": 1.78,
+      "ash": 2.14,
+      "alcalinity_of_ash": 11.2,
+      "magnesium": 100,
+      "total_phenols": 2.65,
+      "flavanoids": 2.76,
+      "nonflavanoid_phenols": 0.26,
+      "proanthocyanins": 1.28,
+      "color_intensity": 4.38,
+      "hue": 1.05,
+      "od280_od315": 3.4,
+      "proline": 1050
+    },
+    {
+      "alcohol": 13.16,
+      "malic_acid": 2.36,
+      "ash": 2.67,
+      "alcalinity_of_ash": 18.6,
+      "magnesium": 101,
+      "total_phenols": 2.8,
+      "flavanoids": 3.24,
+      "nonflavanoid_phenols": 0.3,
+      "proanthocyanins": 2.81,
+      "color_intensity": 5.68,
+      "hue": 1.03,
+      "od280_od315": 3.17,
+      "proline": 1185
+    }
+  ]
+}

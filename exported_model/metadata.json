@@ -1,0 +1,21 @@
+{
+  "name": "wine-clusterer",
+  "version": "1",
+  "run_id": "408157c96cc94553a5012530018668a1",
+  "features": [
+    "alcohol",
+    "malic_acid",
+    "ash",
+    "alcalinity_of_ash",
+    "magnesium",
+    "total_phenols",
+    "flavanoids",
+    "nonflavanoid_phenols",
+    "proanthocyanins",
+    "color_intensity",
+    "hue",
+    "od280_od315",
+    "proline"
+  ],
+  "task": "clustering"
+}

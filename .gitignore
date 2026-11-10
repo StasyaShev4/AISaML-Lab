@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# MLflow
+mlflow-data/
+mlruns/
+mlflow.db
+mlartifacts/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Скриншоты и отчёты (если не хочешь коммитить)
+screenshots/
+reports/
+
+# Данные (опционально - можно закоммитить wine.csv если маленький)
+data/uci_wine/
+data/wine_clustered.csv
+data/wine.zip
